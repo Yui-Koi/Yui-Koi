@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ex-Opera</h1>
+<h1 align="center">Heya , I'm Ex-Opera</h1>
 
 <h3 align="center">I'm a passionate hobbyist!</h3>
 
