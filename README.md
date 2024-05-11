@@ -24,9 +24,15 @@ Heyaa~ I'm Yui Koi, you can also call me Claire (whichever you fancy). I conside
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
 # **🧋Cutie Counter**
-<div align="center">
-    <img align="left" src="https://count.getloli.com/get/@Ex-Opera?theme=r34">
-    <img src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
-</div>
+<img align="left" src="https://count.getloli.com/get/@Ex-Opera?theme=r34">
+<img align="right" src="./images/b.webp" width=100>
 
 
+```
+People who visit my profile~
+
+Hehe~ another cutie has been caught.
+```
+
+
+<img align="center" src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
