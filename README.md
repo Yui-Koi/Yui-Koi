@@ -30,8 +30,11 @@ Heyaa~ I'm Yui Koi, you can also call me Claire (whichever you fancy). I conside
   <img align="center" src="https://count.getloli.com/get/@Ex-Opera?theme=r34">
   <img align="left" src="./images/b.webp" width=100>
   <img align="right" src="./images/b.webp" width=100>
-</div><br><br>
+</div>
 
+
+```
+```
 ## **📫 Contact**
 
 **Reach out to me on discord:** [Yui Koi](https://discord.com/invite/65Hdg7x3)
