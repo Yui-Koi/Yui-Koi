@@ -5,7 +5,7 @@
 Heyaa~ I'm Yui Koi, you can also call me Claire (whichever you fancy). I consider myself a hobbyist programer with an obsessive passion for machine learning and AI that's borderline unhealthy, sometimes I tinker around with various APIs and front end dev is not my cup of tea. Aside from coding, I also like playing Rythm games, watching anime and trolling people.
 <br><br>
 
-## **🛠️ Tooling**
+## **✨ Skillset**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
