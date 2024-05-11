@@ -35,8 +35,9 @@ Heyaa~ I'm Yui Koi, you can also call me Claire (whichever you fancy). I conside
 
 ## **📫 Contact**
 
-Reach out to me on discord: [Yui Koi](https://discord.com/invite/65Hdg7x3)
-You can also email me here: nanashi@femboy.cx
+**Reach out to me on discord:** [Yui Koi](https://discord.com/invite/65Hdg7x3)
+
+**You can also email me here:** nanashi@femboy.cx
 
 
 <div align="center">
