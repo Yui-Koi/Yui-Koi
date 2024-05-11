@@ -2,7 +2,7 @@
 
 ## **☕ About me**
 <a href="https://github.com/Yui-Koi"><img align="left" width="100" src="./images/a.webp"></a>
-Heyaa~ I'm Yui Koi, you can also call me Claire (whichever you fancy). I consider myself a hobbyist programer with an obsessive passion for machine learning and AI that's borderline unhealthy. Aside from coding, I also like playing Rythm games, watching anime and trolling people.
+Heyaa~ I'm Yui Koi, you can also call me Claire (whichever you fancy). I consider myself a hobbyist programer with an obsessive passion for machine learning and AI that's borderline unhealthy, sometimes I tinker around with various APIs and front end dev is not my cup of tea. Aside from coding, I also like playing Rythm games, watching anime and trolling people.
 <br><br>
 
 ## **🛠️ Tooling**
