@@ -35,9 +35,9 @@
   <section id="counter">
     <h2>🧋Cutie Counter</h2>
     <div class="counter-container" align="center">
-      <img src="./images/b.webp" width="13%" align="left" alt="Side Image">
-      <img src="https://count-moe.glitch.me/get/@Yui-Koi?theme=gelbooru" width="40%" alt="Cutie Counter">
-      <img src="./images/b.webp" width="13%" align="right" alt="Side Image">
+      <img src="./images/b.webp" width="15%" align="left" alt="Side Image">
+      <img src="https://count-moe.glitch.me/get/@Yui-Koi?theme=gelbooru" width="45%" alt="Cutie Counter">
+      <img src="./images/b.webp" width="15%" align="right" alt="Side Image">
       </div>
     </div>
   </section>
