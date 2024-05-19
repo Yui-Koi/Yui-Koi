@@ -6,7 +6,7 @@
     <h2>☕ About me</h2>
     <div class="profile-pic">
       <img src="./images/a.webp" width="100" align="left" alt="Profile Picture">
-      <p>Heyaa~ I'm Yui Koi, you can also call me Claire (whichever you fancy). I consider myself a hobbyist programer with an obsessive passion for machine learning and AI that's borderline unhealthy, sometimes I tinker around with various APIs and front end dev is not my cup of tea. Aside from coding, I also like playing Rythm games, watching anime and trolling people.</p><br>
+      <p>Heyaa~ I'm Yui Koi, you can also call me Claire (whichever you fancy). I consider myself a hobbyist programer with an obsessive passion for machine learning and AI that's borderline unhealthy. Sometimes I tinker around with various APIs, as front end dev is not my cup of tea. Aside from coding, I also like playing Rythm games, watching anime and trolling people.</p><br>
     </div>
   </section>
 
