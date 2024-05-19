@@ -45,7 +45,7 @@
   <section id="contact">
     <h2>📫 Contact</h2>
     <div class="contact-info">
-      <p>Reach out to me on discord: <a href="https://discord.com/invite/65Hdg7x3">Yui Koi</a></p>
+      <p>Reach out to me on discord: <a href="https://discord.com/users/873771379848282143">Yui Koi</a></p>
       <p>You can also email me here: <a href="mailto:nanashi@femboy.cx">nanashi@femboy.cx</a></p>
     </div>
     <div class="typograssy-container">
