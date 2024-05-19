@@ -27,7 +27,7 @@ Heyaa~ I'm Yui Koi, you can also call me Claire (whichever you fancy). I conside
 
 # **🧋Cutie Counter**
 <div align="center">
-  <img align="center" src="https://count.getloli.com/get/@Yui-Koi?theme=r34">
+  <img align="center" src="https://count.chiya.dev/get/@Yui-Koi?theme=gelbooru">
   <img align="left" src="./images/b.webp" width=100>
   <img align="right" src="./images/b.webp" width=100>
 </div>
