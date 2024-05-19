@@ -1,4 +1,3 @@
-
 <header>
   <img src="./images/banner.webp" alt="Banner" width="100%">
 </header>
@@ -36,9 +35,9 @@
   <section id="counter">
     <h2>🧋Cutie Counter</h2>
     <div class="counter-container" align="center">
-      <img src="./images/b.webp" width="100" align="left" alt="Side Image">
-      <img src="https://count-moe.glitch.me/get/@Yui-Koi?theme=gelbooru" width="325" alt="Cutie Counter">
-      <img src="./images/b.webp" width="100" align="right" alt="Side Image">
+      <img src="./images/b.webp" width="13%" align="left" alt="Side Image">
+      <img src="https://count-moe.glitch.me/get/@Yui-Koi?theme=gelbooru" width="40%" alt="Cutie Counter">
+      <img src="./images/b.webp" width="13%" align="right" alt="Side Image">
       </div>
     </div>
   </section>
