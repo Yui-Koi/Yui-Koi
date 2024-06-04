@@ -36,7 +36,7 @@
     <h2>🧋Cutie Counter</h2>
     <div class="counter-container" align="center">
       <img src="./images/b.webp" width="15%" align="left" alt="Side Image">
-      <img src="https://count.hello2233.top/get/@Yui-Koi?theme=gelbooru" width="45%" alt="Cutie Counter">
+      <img src="https://counter.katomegumi.net/get/@Yui-Koi?theme=gelbooru" width="45%" alt="Cutie Counter">
       <img src="./images/b.webp" width="15%" align="right" alt="Side Image">
       </div>
     </div>
