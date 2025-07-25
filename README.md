@@ -32,7 +32,17 @@
       </div>
   </section>
 
-  <section id="contact">
+<section id="counter">
+    <h2>🧋Cutie Counter</h2>
+    <div class="counter-container" align="center">
+      <img src="./images/b.webp" width="15%" align="left" alt="Side Image">
+      <img src="https://count.getloli.com/@:Yui?name=%3AYui&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" width="45%" alt="Cutie Counter">
+      <img src="./images/b.webp" width="15%" align="right" alt="Side Image">
+      </div>
+    </div>
+</section>
+
+<section id="contact">
     <h2>📫 Contact</h2>
     <div class="contact-info">
       <p>Reach out to me on discord: <a href="https://discord.com/users/873771379848282143">Yui Koi</a></p>
