@@ -32,16 +32,6 @@
       </div>
   </section>
 
-  <section id="counter">
-    <h2>🧋Cutie Counter</h2>
-    <div class="counter-container" align="center">
-      <img src="./images/b.webp" width="15%" align="left" alt="Side Image">
-      <img src="https://counter.katomegumi.net/get/@Yui-Koi?theme=gelbooru" width="45%" alt="Cutie Counter">
-      <img src="./images/b.webp" width="15%" align="right" alt="Side Image">
-      </div>
-    </div>
-  </section>
-
   <section id="contact">
     <h2>📫 Contact</h2>
     <div class="contact-info">
